@@ -1,41 +1,53 @@
 import request from '@/utils/request'
 
-export function fetchList(query) {
+export function getArticleList(data, query) {
   return request({
-    url: '/vue-element-admin/article/list',
-    method: 'get',
-    params: query
-  })
-}
-
-export function fetchArticle(id) {
-  return request({
-    url: '/vue-element-admin/article/detail',
-    method: 'get',
-    params: { id }
-  })
-}
-
-export function fetchPv(pv) {
-  return request({
-    url: '/vue-element-admin/article/pv',
-    method: 'get',
-    params: { pv }
-  })
-}
-
-export function createArticle(data) {
-  return request({
-    url: '/vue-element-admin/article/create',
+    url: `/article/list?page=${query.page}&limit=${query.limit}`,
     method: 'post',
     data
   })
 }
 
-export function updateArticle(data) {
+export function findByCategory(id) {
   return request({
-    url: '/vue-element-admin/article/update',
+    url: `/article/findByCategory/${id}`,
+    method: 'get'
+  })
+}
+
+export function findByTag(id) {
+  return request({
+    url: `/article/findByTag/${id}`,
+    method: 'get'
+  })
+}
+
+export function getArticleById(id) {
+  return request({
+    url: `/article/${id}`,
+    method: 'get'
+  })
+}
+
+export function articleUpdate(data) {
+  return request({
+    url: `/article`,
+    method: 'put',
+    data
+  })
+}
+
+export function articleAdd(data) {
+  return request({
+    url: `/article`,
     method: 'post',
     data
+  })
+}
+
+export function articleDel(id) {
+  return request({
+    url: `/article/${id}`,
+    method: 'delete'
   })
 }

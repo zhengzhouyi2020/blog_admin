@@ -3,7 +3,7 @@
     <header id="header" class="header bg-white">
       <div class="navbar-container">
         <a href="/" class="navbar-logo">
-          <span>Tumo Blog</span>
+          <span>Zzy Blog</span>
         </a>
         <div class="navbar-menu">
           <a href="/">Home</a>
@@ -27,9 +27,9 @@
       <div class="footer-social">
         <div class="footer-container clearfix">
           <div class="social-list">
-            <a class="social rss" target="blank" href="https://tycoding.cn/">BLOG</a>
-            <a class="social zhihu" target="blank" href="https://www.zhihu.com/people/tomo-83-82/activities">ZHIHU</a>
-            <a class="social github" target="blank" href="https://github.com/TyCoding">GITHUB</a>
+            <a class="social rss" target="blank" href="https://zhengzhouyi2020.github.io/">BLOG</a>
+            <a class="social zhihu" target="blank" href="https://www.zhihu.com/people/mu-xie-44-10">ZHIHU</a>
+            <a class="social github" target="blank" href="https://github.com/zhengzhouyi2020">GITHUB</a>
           </div>
         </div>
       </div>
@@ -38,10 +38,10 @@
           <div class="meta-item meta-copyright">
             <div class="meta-copyright-info">
               <a href="/" class="info-logo">
-                <span>Tumo Blog</span>
+                <span>Zzy Blog</span>
               </a>
               <div class="info-text">
-                <p>© 2019 <a href="https://tycoding.cn/">TyCoding</a></p></div>
+                <p>© 2019 <a href="https://zhengzhouyi2020.github.io/">Zzy</a></p></div>
             </div>
           </div>
           <div class="meta-item meta-posts">

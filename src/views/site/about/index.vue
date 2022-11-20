@@ -12,7 +12,7 @@
         <p>至此</p>
         <p>加油！</p>
         <div align="center">
-          <a href="https://tycoding.cn/cdn/qrcode_for_gh.jpg" class="fancybox fancybox.image animsition-link" rel="group"><img src="https://tycoding.cn/cdn/qrcode_for_gh.jpg"></a>
+          <a href="https://zhengzhouyi2020.github.io/images/zzy-avatar.jpg" class="fancybox fancybox.image animsition-link" rel="group"><img src="https://tycoding.cn/cdn/qrcode_for_gh.jpg"></a>
           <div style="font-size: 14px;font-weight: bold;">
             公众号：程序员涂陌
           </div>
@@ -22,9 +22,9 @@
         <p>WeChatGroup:  关注公众号查看</p>
         <h1 id="联系"><a href="#联系" class="headerlink animsition-link" title="联系" />联系</h1>
         <ul>
-          <li><a href="http://www.tycoding.cn" class="animsition-link">Blog@TyCoding’s blog</a></li>
-          <li><a href="https://github.com/TyCoding" target="_blank" rel="noopener" class="animsition-link">GitHub@TyCoding</a></li>
-          <li><a href="https://www.zhihu.com/people/tomo-83-82/activities" target="_blank" rel="noopener" class="animsition-link">ZhiHu@TyCoding</a></li>
+          <li><a href="https://zhengzhouyi2020.github.io/" class="animsition-link">Blog@Zzy’s blog</a></li>
+          <li><a href="https://github.com/zhengzhouyi2020" target="_blank" rel="noopener" class="animsition-link">GitHub@TyCoding</a></li>
+          <li><a href="https://www.zhihu.com/people/mu-xie-44-10" target="_blank" rel="noopener" class="animsition-link">ZhiHu@TyCoding</a></li>
         </ul>
       </div>
     </article>
